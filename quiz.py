@@ -1,4 +1,4 @@
-from Tkinter import *
+from tkinter import Tk,Frame,Canvas,Label,Button,BOTTOM
 
 
 def rais_fra(frame):
