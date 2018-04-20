@@ -1,6 +1,5 @@
-from Tkinter import *
-import tkMessageBox
-import os
+from tkinter import messagebox,mainloop,Tk,Entry,Label,Button
+from os import startfile
 
 def passcheck():
     cu=u.get()
@@ -8,9 +7,9 @@ def passcheck():
     ru='user'
     rp='123456'
     if cu!=ru or cp!=rp:
-        tkMessageBox.showinfo('Invalid','Username or Password didn\'t match ')
+        messagebox.showinfo('Invalid','Username or Password didn\'t match ')
     else:
-        os.startfile('menu.py')
+        startfile('menu.py')
         root.destroy()
 root=Tk()
 root.resizable(0,0)

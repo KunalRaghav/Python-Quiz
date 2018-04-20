@@ -1,4 +1,4 @@
-from Tkinter import *
+from tkinter import Tk,Frame,Button,Label,BOTTOM,mainloop
 import os
 menu=Tk()
 frame=Frame()
