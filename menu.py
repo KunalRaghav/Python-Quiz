@@ -23,7 +23,7 @@ menu.config(bg='black')
 title=Label(frame,text='Menu',bg='black',fg='green',font=('Arial 60 bold'))
 title.pack()
 Quiz=button(frame1,'Quiz',lambda:os.startfile('quiz.py'),0,0)
-Brick=button(frame1,'Brick Breaker','',1,1)
+Brick=button(frame1,'<PlaceHolder>','',1,1)
 Label(frame1,text='''A KunalRaghav Product''',bg='black',fg='green',font=('Arial 18 bold')).grid(row=0,column=1)
 Label(frame1,text='''More Games
 Coming Soon ''',bg='black',fg='green',font=('Arial 17 bold')).grid(row=1,column=0)
