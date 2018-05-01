@@ -11,10 +11,10 @@ ___
 
 ## Other Screenshots:
 
+### Login Screen
+
 ![Logr](scr/logr.png)
 
-##### Login Screen
+### Menu
 
-![Menu](scr/menu.png)
-
-##### Menu
+![Menu](scr/men.png)
