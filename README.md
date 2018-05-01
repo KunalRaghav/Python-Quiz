@@ -13,8 +13,8 @@ ___
 
 ![Logr](scr/logr.png)
 
-<center> Login Screen </center>
+##### Login Screen
 
 ![Menu](scr/menu.png)
 
-<center> Menu </center>
+##### Menu
