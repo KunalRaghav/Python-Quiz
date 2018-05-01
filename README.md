@@ -15,6 +15,6 @@ ___
 
 <center> Login Screen </center>
 
-![Menu](scr/menu.png) 
+![Menu](scr/menu.png)
 
 <center> Menu </center>
